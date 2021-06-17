@@ -1,19 +1,21 @@
 ## Hi there, I'm John 👋
 
-I'm a PHP developer who specialises in re-platforming bespoke PHP web applications onto [Laravel](https://laravel.com/).
+I'm a software (and digital marketing) consultant who specialises in re-platforming bespoke PHP web applications onto [Laravel](https://laravel.com/).
 
 Over the last 10 years I have built:
 
+- 👷‍♂️ a business insurance quote engine for tradespeople
 - 🏦 an online accounting SaaS platform
 - 🤑 a voucher codes and deals website
 - 📈 an equity crowdfunding platform
 - 🏠 a property lettings management system
 - 📊 a big-data property intelligence platform
 - ⛳️ an international golf course reviews website
+- 🚐 a bespoke customer-relations B2B platform for a leisure industry supplier
 
-I work remotely from my home office in Taunton, Somerset (that's in England). 
+I work remotely from my home office in West Somerset (that's in England). 
 
-I am available for freelance projects as a developer or as a project manager. You can contact me via:
+I am available for freelance projects to work in a consultant or project manager capacity, along with my team of trusted developers. You can contact me via:
 
 - [My Website](https://johnblackmore.com/)
 - [Twitter](http://twitter.com/johnblackmore)
