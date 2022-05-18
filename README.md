@@ -1,8 +1,9 @@
 ## Hi there, I'm John 👋
 
-I'm a software (and digital marketing) consultant who specialises in re-platforming bespoke PHP web applications onto [Laravel](https://laravel.com/).
+I am currently working as Head of Software Development at [Wonderful Payments](https://wonderful.co.uk) and [Wonderful Org](https://wonderful.org).
+I specialise in managing remote-working development teams and re-platforming bespoke PHP web applications onto [Laravel](https://laravel.com/).
 
-Over the last 10 years I have built:
+Over the last 15 years I have built:
 
 - 👷‍♂️ a business insurance quote engine for tradespeople
 - 🏦 an online accounting SaaS platform
@@ -12,19 +13,14 @@ Over the last 10 years I have built:
 - 📊 a big-data property intelligence platform
 - ⛳️ an international golf course reviews website
 - 🚐 a bespoke customer-relations B2B platform for a leisure industry supplier
+- 💷 an A2A payments platform powered by Open Banking
 
 I work remotely from my home office in West Somerset (that's in England). 
 
-I am available for freelance projects to work in a consultant or project manager capacity, along with my team of trusted developers. You can contact me via:
+I am not currently available to take on any freelance projects, however you can contact me via:
 
 - [My Website](https://johnblackmore.com/)
 - [Twitter](http://twitter.com/johnblackmore)
 - [LinkedIn](https://uk.linkedin.com/in/johnblackmore)
 
 In my spare time I travel the UK with my family in our self-converted VW campervan. You can follow our adventures on [Instagram](https://www.instagram.com/t4.family/) and [YouTube](https://www.youtube.com/c/T4Family).
-
------
-
-### My Github Stats
-
-![johnblackmore's Github Stats](https://github-readme-stats.vercel.app/api?username=johnblackmore&count_private=true&show_icons=true)
