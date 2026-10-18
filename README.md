@@ -23,7 +23,6 @@ I work remotely from my home office in West Somerset (that's in England).
 
 If you are looking for help with your project, you can contact me via:
 
-- [My Technical Blog](https://j16e.com)
 - [My Personal Website](https://johnblackmore.com/)
 - [LinkedIn](https://uk.linkedin.com/in/johnblackmore)
 - [Instagram](https://instagram.com/johnblackmore)
