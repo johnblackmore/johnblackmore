@@ -3,7 +3,7 @@
 I am currently working as Head of Technology at [Wonderful Payments](https://wonderful.co.uk) and [Wonderful Org](https://wonderful.org).
 I specialise in managing remote-working development teams and re-platforming bespoke PHP web applications onto [Laravel](https://laravel.com/).
 
-Over the last 15 years I have built:
+Over my career I have built:
 
 - 👷‍♂️ a business insurance quote engine for tradespeople
 - 🏦 an online accounting SaaS platform
