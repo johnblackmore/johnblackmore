@@ -15,6 +15,10 @@ Over the last 15 years I have built:
 - 🚐 a bespoke customer-relations B2B platform for a leisure industry supplier
 - 💷 an A2A payments platform powered by Open Banking
 
+## Recent project
+
+- ✈️ [Pocket Radar](https://radar.johnblackmore.com/) — a retro aircraft radar PWA built with React, TypeScript and MapLibre, featuring live aircraft data, selectable airport locations, GPS and compass alignment. Self-hosted using VitoDeploy.
+
 I work remotely from my home office in West Somerset (that's in England). 
 
 If you are looking for help with your project, you can contact me via:
