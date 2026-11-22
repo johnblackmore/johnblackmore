@@ -17,9 +17,10 @@ Over my career I have built:
 
 ## Recent projects
 
-- ✈️ [Pocket Radar](https://radar.johnblackmore.com/) — a retro aircraft radar PWA built with React, TypeScript and MapLibre, featuring live aircraft data, selectable airport locations, GPS and compass alignment. Self-hosted using VitoDeploy.
-- 🚌 [Pocket Bus](https://bus.johnblackmore.com/) — a mobile app for finding nearby bus stops, checking upcoming departures and seeing live bus locations where available.
-- 🚗 [Pocket Drive](https://drive.johnblackmore.com/) — an installable GPS dashboard for iPhone with a speedometer, compass, altitude, offline maps and trip recording.
+- ✈️ [Pocket Radar](https://radar.johnblackmore.com/) — a retro aircraft radar PWA with live aircraft tracking, selectable airports and GPS and compass alignment. Built with React, TypeScript and MapLibre. Self-hosted and deployed with VitoDeploy.
+- 🚌 [Pocket Bus](https://bus.johnblackmore.com/) — a PWA for finding nearby bus stops, checking departures and tracking buses live where data is available. Built with Laravel and MySQL on the back end, with React, TypeScript and Leaflet on the front end. Self-hosted and deployed with VitoDeploy.
+- 🚗 [Pocket Drive](https://drive.johnblackmore.com/) — an installable GPS dashboard for iPhone with a speedometer, offline maps and trip recording. Built with vanilla TypeScript and Vite, using MapLibre and PMTiles for downloadable maps. Hosted on Cloudflare Pages and deployed via GitHub Actions.
+
 
 I work remotely from my home office in West Somerset (that's in England). 
 
