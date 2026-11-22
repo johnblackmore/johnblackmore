@@ -15,9 +15,11 @@ Over my career I have built:
 - 🚐 a bespoke customer-relations B2B platform for a leisure industry supplier
 - 💷 an A2A payments platform powered by Open Banking
 
-## Recent project
+## Recent projects
 
 - ✈️ [Pocket Radar](https://radar.johnblackmore.com/) — a retro aircraft radar PWA built with React, TypeScript and MapLibre, featuring live aircraft data, selectable airport locations, GPS and compass alignment. Self-hosted using VitoDeploy.
+- 🚌 [Pocket Bus](https://bus.johnblackmore.com/) — a mobile app for finding nearby bus stops, checking upcoming departures and seeing live bus locations where available.
+- 🚗 [Pocket Drive](https://drive.johnblackmore.com/) — an installable GPS dashboard for iPhone with a speedometer, compass, altitude, offline maps and trip recording.
 
 I work remotely from my home office in West Somerset (that's in England). 
 
